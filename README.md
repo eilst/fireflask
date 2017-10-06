@@ -10,9 +10,10 @@ Before we begin, you need a firebase account. Then you need to create a project 
  
 You can find all these values, going to your project, then to Authentication on the left side menu (as of october 2017 console interface)
 and on the top right you should see a 'WEB SETUP' button. There you will find all these values
- ![screenshot of 'WEB SETUP' view]( https://www.google.com.mx/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjT4b7rjdvWAhUByWMKHZTGAFoQjRwIBw&url=https%3A%2F%2Fmedium.com%2F%40jamesmarino%2Fgetting-started-with-react-native-and-firebase-ab1f396db549&psig=AOvVaw3VGshzI9ZocFKWi0jHFl9Z&ust=1507348751728588)
+
  
-| :-------------  |:------------- |
+ | Config&nbsp;Value  | Description |
+ | :-------------  |:------------- |
 ApiKey | Your primary Firebase project  identifier - (https://console.firebase.google.com/u/0/YOURPROJECTID/settings/general).
 AuthDomain | Used to authenticate.
 DatabaseURL | The url to access your database.
