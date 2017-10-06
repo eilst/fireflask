@@ -92,9 +92,8 @@ There's just a few more steps to get to your server. You have two options here
 It might be something like `https://asdf456.ngrok.io`. Take note of this.
 
 
-You should now be ready to go!
-First commit only implements GET and POST.
-Next: PUT, DELETE, authentication and front-end
+You should now be ready to go testing the API!
+Next: Authentication and front-end
 
 
 
