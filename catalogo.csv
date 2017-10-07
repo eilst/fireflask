@@ -1,0 +1,881 @@
+Catalogo de Servicio,Area,Item
+GC - Hardware,CPU,Disco Duro
+GC - Hardware,Perifericos,Puertos USB
+GC - Hardware,Perifericos,Mouse
+GC - Hardware,Perifericos,Teclado
+GC - Software,Windows,Lentitud
+Capital,Applications,MS Office
+Capital,Applications,Loop Fabric
+Capital,Applications,Antivirus
+Capital,Applications,Web Browser
+Capital,Applications,Agente
+Capital,Networking,Wired
+Capital,Networking,Wireless
+Capital,Networking,Dedicated Link
+Capital,Networking,Firewall
+Capital,Assessment,MS Office
+Capital,Assessment,Windows
+Capital,Assessment,eFom
+Capital,Assessment,Printing
+Capital,Hardware,Monitor
+Capital,Hardware,Mouse
+Capital,Hardware,Keyboard
+Capital,Hardware,HDD
+Capital,Hardware,Printer
+Essential,Red,Cableado
+Essential,Red,Wireless
+Essential,Red,wePresent
+Essential,Aplicaciones,SalesForce
+Essential,Aplicaciones,Google Calendar
+Essential,Aplicaciones,RedBooth
+Essential,Aplicaciones,Google Drive
+Essential,Aplicaciones,Google Mail
+GC - Software,Windows,Configuracií_n
+Essential,Sistema Operativo,Asesoria
+Essential,Sistema Operativo,Instalacií_n
+Essential,Sistema Operativo,Configuracií_n
+Eutectic,Networking,Firewall
+Eutectic,Networking,BAM
+Eutectic,Networking,VPN
+Eutectic,Networking,MPLS
+Eutectic,Networking,Wireless
+Eutectic,Networking,Dedicated Link
+Eutectic,Networking,Wired
+Eutectic,Applicatons,ADAMS
+Eutectic,Assessment,MS Office
+Eutectic,Applicatons,Windows
+Eutectic,Applicatons,MS Office
+Eutectic,Applicatons,vmWare
+Eutectic,Applicatons,Antivirus
+Eutectic,Assessment,Windows
+Eutectic,Assessment,JD Edwards
+Eutectic,Assessment,Facturacií_n Eletrí_nica
+Eutectic,Assessment,ADAMS
+Eutectic,Assessment,vmWare
+Eutectic,Hardware,Monitor
+Eutectic,Hardware,Mouse
+Eutectic,Hardware,Keyboard
+Eutectic,Hardware,HDD
+Eutectic,Hardware,Printer
+Eutectic,Hardware,Mobile
+Eutectic,Hardware,SERVERS
+Eutectic,Hardware,SAN
+PPOMX - Proveedores,Servicios,Axtel
+PPOMX - Proveedores,Servicios,Telmex
+PPOMX - Proveedores,Servicios,Edificio
+PPOMX - Proveedores,Servicios,CFE
+PPOMX - Proveedores,Fabricantes,Meraki
+PPOMX - Proveedores,Fabricantes,HP
+PPOMX - Proveedores,Fabricantes,Acer
+PPOMX - Proveedores,Fabricantes,Dell
+PPOMX - Proveedores,Fabricantes,Apple
+PPOMX - Proveedores,Hardware,Impresií_n
+PPOMX - Proveedores,Hardware,Escaneo
+PPOMX - Proveedores,Hardware,Mantenimiento
+GC - Software,Windows,Falla
+GC - Punto de Venta,Venta,Precio
+GC - Punto de Venta,Venta,Promocií_n
+GC - Punto de Venta,Traspasos,Inventario
+GC - Comunicaciones,CCTV,Videos
+GC - Comunicaciones,CCTV,Acceso
+Essential,Aplicaciones,RDP
+Essential,Aplicaciones,Antivirus
+Essential,Red,Router
+PPOMX - Proveedores,Hardware,Garantí_a
+PPOMX - Proveedores,Software,Salesforce
+Hardware,Impresií_n,Sato
+Capital,Hardware,No Break
+Capital,Hardware,MotherBoard
+Capital,Hardware,Eliminador
+Capital,Applications,COI
+Capital,Applications,NOI
+Capital,Applications,SAE
+Capital,Applications,ACT
+Capital,Applications,GEMINIS (CHECADOR)
+Hardware,Reloj Checador,Energia
+Essential,Hardware,Monitor
+Essential,Hardware,Keyboard
+Essential,Hardware,Mouse
+Essential,Hardware,HDD
+Essential,Hardware,No Break
+Essential,Hardware,Bateria
+Befective,Implementacií_n,Requerimentos Tí©cnicos
+Befective,Implementacií_n,Permisos de equipo
+Befective,Implementacií_n,Servicio de Red
+Befective,Sistema Operativo,McOS X
+Befective,Sistema Operativo,Windows 10
+Befective,Sistema Operativo,Windows 8.1
+Hardware,Reloj Checador,Lector
+PPOMX - Change Requests,IT Requests,Alta de Elemento en Catíçlogo
+PPOMX - Change Requests,IT Requests,Baja de Elemento de Catíçlogo
+Capital,Applications,WINDOWS
+PPOMX - Change Requests,IT Requests,Cambio de Elemento de Catíçlogo
+Essential,Red,Access Point
+Hardware,Perifericos,Proyector
+Essential,Hardware,Impresora
+Hardware,Impresií_n,Zebra
+Hardware,Reloj Checador,Servicio
+Hardware,Impresií_n,Multifuncional
+Hardware,Impresií_n,Rugger Writer
+Hardware,Impresií_n,Plotter
+Hardware,Servidores,Storage
+Befective,Sistema Operativo,Windows 8
+Befective,Configuracií_n,Eficiencias
+Befective,Sistema Operativo,Windows 7
+Befective,Comunicaciones,Sin conexií_n
+Befective,Comunicaciones,Usuario no identificado
+Befective,Comunicaciones,Equipo sn registrar
+Befective,Configuracií_n,Actividades Productivas
+Befective,Configuracií_n,Actividades No Productivas
+Befective,Configuracií_n,Preguntas Offline
+Befective,Configuracií_n,Infomes
+Befective,Configuracií_n,Asignacií_n de Roles
+Hardware,Impresií_n,Etiquetadora
+Comunicaciones,Monitoreo,Solarwinds
+Aplicaciones,Oracle,Ventas SHI
+Aplicaciones,Oracle,Ventas OM
+Aplicaciones,Oracle,SOA / Ventas
+Aplicaciones,Oracle,SOA / Materiales
+Aplicaciones,Oracle,Materiales PUT
+Aplicaciones,Oracle,Materiales Requisiciones
+Aplicaciones,Oracle,Materiales / Quality
+Aplicaciones,Oracle,Materiales Manufcatura
+Aplicaciones,Oracle,Materiales Provisionamiento
+Aplicaciones,Oracle,Materiales Inv
+Aplicaciones,Oracle,SOA / Finanzas
+Aplicaciones,Oracle,Materiales Mantenimiento
+Aplicaciones,Oracle,Materiales Pedidos
+Aplicaciones,Oracle,Materiales Inprocurement / Compras
+Aplicaciones,Oracle,Finanzas Informes
+Aplicaciones,Oracle,Finanzas GL
+Aplicaciones,Oracle,Finanzas OIE
+Aplicaciones,Oracle,Finanzas FISO
+GC - Software,Remoto,VNC
+Software,Agentes,DeskOne
+Aplicaciones,Meta4,Desarrollo
+Aplicaciones,Ventas,Facturacií_n
+Aplicaciones,Reloj Checador,Informacií_n
+Aplicaciones,Portal Proveedores,Ordenes de Compra
+Aplicaciones,Portal Proveedores,Portal
+Aplicaciones,Portal Proveedores,Requisiciones
+Aplicaciones,Future,Agente
+Aplicaciones,Facturacií_n,Notas de Debito
+Aplicaciones,Facturacií_n,Notas de Credito
+Aplicaciones,Facturacií_n,Facturas
+Aplicaciones,Facturacií_n,Embarques
+Aplicaciones,Oracle,Finanzas Alerta
+Aplicaciones,Meta4,SOA
+Aplicaciones,Meta4,ESS
+Aplicaciones,Meta4,Negocio
+Aplicaciones,Meta4,Nomina
+Capital,Hardware,Cambio de ubicacií_n
+Aplicaciones,Facturacií_n,Azurian / ATEB COFIDI
+Aplicaciones,Meta4,E-Mind
+Aplicaciones,Meta4,PeopleNet
+Aplicaciones,Epicor,Agente
+Essential,Aplicaciones,Microsoft Office
+Accesos,Windows,Login
+Essential,Hardware,Escaner
+Aplicaciones,Discoverer,Interface
+Eutectic,Hardware,Cambio de toner
+Eutectic,Applicatons,E-mail
+Eutectic,Hardware,Work Station
+Accesos,Active Directory,Recurso de Red
+Accesos,Active Directory,Red
+Accesos,Portal de Accesos,Cuenta
+Accesos,VPN,Cuenta
+Accesos,Portal de Accesos,Homologacií_n
+Accesos,Portal Proveedores,Cuenta
+Aplicaciones,Portal Proveedores,Empresas
+Aplicaciones,Oracle,Finanzas FA
+Aplicaciones,Oracle,Finanzas Aplicacií_n
+Aplicaciones,Oracle,Finanzas AP
+Aplicaciones,Oracle,Finanzas AR
+Software,Compresií_n de Datos,Winzip
+Software,Compresií_n de Datos,WinRar
+Software,Compresií_n de Datos,TARZip
+Software,Compresií_n de Datos,7zip
+Software,Agentes,Lync
+Software,Agentes,VPN Cisco Client
+Aplicaciones,Meta4,Interface
+Statistics,Executive,Activities
+Statistics,Executive,Highlights
+Access,Account,Login
+Access,Account,Password
+Access,Account,Signup
+Statistics,Automated Statistics,Create
+Statistics,Automated Statistics,Manage
+Statistics,Executive,Mood
+Statistics,Executive,Teammates
+Statistics,Executive,Teams
+Statistics,Executive,Single Activity (away)
+Statistics,Executive,Single Activity (computer)
+Statistics,Executive,Work Goal
+Statistics,Historical,General / Many Days
+Statistics,Historical,General / One Day
+Statistics,Historical,Single Teammate / Many Days
+Statistics,Historical,Single Teammate / One Day
+Statistics,Real Time,General
+Statistics,Real Time,Details
+Teams & Teammates,Create New Team / Subteam,Mood Feature
+Teams & Teammates,Create New Team / Subteam,My Stats Feature
+Teams & Teammates,Create New Team / Subteam,Question
+Teams & Teammates,Create New Team / Subteam,Time Goal
+Teams & Teammates,Create New Team / Subteam,Work Goal
+Accesos,Active Directory,Cuenta
+Aplicaciones,Colaboracií_n,Lync
+Accesos,Oracle,QATI
+Accesos,Oracle,LFRS
+Accesos,Oracle,Cuenta
+Accesos,Meta4,ESS
+Accesos,Meta4,E-Mind
+Accesos,Internet,Privilegio
+Accesos,Cí_digo Telefí_nico,Cí_digo
+Accesos,Lotus Notes,Cuenta
+Accesos,Meta4,Cuenta
+GC - Hardware,Accesorios,Cable de energia
+Accesos,Exchange,Lista de Distribucion
+Accesos,Internet,Cuenta
+Accesos,Exchange,Cuota
+PPOMX - Proveedores,Software,Pipedrive
+Accesos,Discoverer,Informacií_n
+Accesos,Exchange,Cuenta
+Essential,Hardware,Telí©fono Fijo
+PPOMX - Proveedores,Software,RedBooth
+PPOMX - Proveedores,Software,Google Drive
+PPOMX - Proveedores,Software,Google Mail
+PPOMX - Proveedores,Software,Google Calendar
+Essential,Red,Cable HDMI
+Essential,Red,Cable Telefonico
+Essential,Aplicaciones,Banca Electronica
+Essential,Aplicaciones,Reloj Checador
+Essential,Aplicaciones,Befective
+Essential,Aplicaciones,SugarCRM
+Essential,Hardware,Cable de Red
+Essential,Hardware,Cable Telefonico
+Essential,Hardware,Cable HDMI
+Essential,Hardware,Cable VGA
+Essential,Hardware,Dockinstation
+PPOMX - Change Requests,IT Requests,Cambio de Privilegios de Acceso a Red
+PPOMX - Change Requests,HR Requests,Baja de Usuario
+PPOMX - Change Requests,HR Requests,Cambio de Usuario
+PPOMX - Change Requests,HR Requests,Alta de Usuario
+PPOMX - Change Requests,IT Requests,Solicitud de Servidor
+PPOMX - Change Requests,IT Requests,Solicitud de Base de Datos
+PPOMX - Change Requests,IT Requests,Identidad y Acceso
+PPOMX - Change Requests,IT Requests,Prestamo de Equipo de Computo
+PPOMX - Proveedores,Proveedores,Telmex
+Essential,Aplicaciones,itManager
+Accesos,Cí_digo Telefí_nico,Privilegios
+Accesos,Discoverer,Cuenta
+Accesos,BLIS,Privilegios
+Comunicaciones,Infraestructura,Aire de Precisií_n
+Comunicaciones,Red WiFi,Access Point
+Comunicaciones,Red LAN,Router
+Comunicaciones,Red WAN,Enlace
+Comunicaciones,Red LAN,Switch
+Comunicaciones,Red LAN,Patch Cord
+Statistics,Executive,Time Goal
+Software,Agentes,Antivirus
+Comunicaciones,Infraestructura,Rack
+Comunicaciones,Infraestructura,UPS
+Comunicaciones,Infraestructura,Almacenamiento
+Comunicaciones,Infraestructura,Cableado de Datos
+Comunicaciones,Infraestructura,Planta de Energia
+Comunicaciones,Infraestructura,Gabinete
+Comunicaciones,Infraestructura,Cableado de Energia
+Accesos,Exchange,Privilegios
+Teams & Teammates,Create New Team / Subteam,Consider Away After
+Teams & Teammates,Create New Team / Subteam,Copy Goals and Rules
+Download,Agents,Mac
+Download,Agents,Windows
+Download,Technical Requirements,General
+Download,Tester,Windows
+Payment,Contracts,General
+Payment,Methods,Digital
+Payment,Methods,Traditional
+Accesos,BLIS,Cuenta
+Comunicaciones,Voz,Cableado de Voz
+PPOMX - Proveedores,Proveedores,Acer
+Hardware,Desktop,Fuente de Poder
+Comunicaciones,Voz,Equipo Analí_gico
+PPOMX - Change Requests,IT Requests,Prestamo de Cables / Adaptadores de Energí_a
+Comunicaciones,Voz,Equipo VoIP
+Comunicaciones,Voz,Extensií_n
+PPOMX - Change Requests,IT Requests,Prestamo de Proyector
+PPOMX - Change Requests,IT Requests,Prestamo de Monitor
+PPOMX - Proveedores,Proveedores,AXTEL
+PPOMX - Proveedores,Proveedores,BBS Red
+PPOMX - Proveedores,Proveedores,Alestra
+PPOMX - Proveedores,Proveedores,Ingrammicro
+PPOMX - Proveedores,Proveedores,Tecsyso
+Essential,Servicio,Reset de Password
+PPOMX - Proveedores,Proveedores,Tech-Pro
+PPOMX - Proveedores,Proveedores,Telcel
+PPOMX - Proveedores,Proveedores,Nextel
+PPOMX - Proveedores,Proveedores,Dell
+PPOMX - Proveedores,Proveedores,HP
+PPOMX - Proveedores,Proveedores,Microsoft
+PPOMX - Proveedores,Proveedores,AVAYA
+PPOMX - Proveedores,Proveedores,Profitbricks
+Hardware,Servidores,NIC
+Essential,Servicio,Respaldos de Informacií_m
+Essential,Servicio,Cambio de Lugar
+Essential,Aplicaciones,Java
+Hardware,Servidores,HDD
+Hardware,Servidores,Unidad de Cinta
+Essential,Aplicaciones,Google Chrome
+Essential,Aplicaciones,FireFox
+Essential,Aplicaciones,Internet Explorer
+Essential,Infraestructura,ProfitBricks
+Essential,Infraestructura,1and1
+Essential,Infraestructura,DNS
+Essential,Infraestructura,Google Apps
+Essential,Infraestructura,Office 365
+Essential,Infraestructura,Cisco
+GC - Hardware,Accesorios,Tonner
+GC - Hardware,Accesorios,Cable de Telí©fono
+GC - Hardware,Accesorios,Cable de Red
+GC - Hardware,Refacciones,Pinpad
+GC - Hardware,Refacciones,Fuente
+Hardware,Servidores,RAM
+GC - Hardware,Refacciones,Memoria RAM
+GC - Hardware,Refacciones,Arturito
+GC - Hardware,No-Break,Instalacií_n
+GC - Comunicaciones,MPLS Tiendas,Modem
+GC - Hardware,No-Break,No enciende
+GC - Hardware,No-Break,No respalda
+GC - Software,Google Chrome,Instalacií_n
+GC - Software,Antivirus,Falla
+GC - Software,Antivirus,Configuracií_n
+GC - Telefoní_a,Mí_vil,Baja
+GC - Telefoní_a,Mí_vil,Contratacií_n
+GC - Telefoní_a,Mí_vil,Aparato
+GC - Telefoní_a,Mí_vil,Plan de datos
+GC - Telefoní_a,Mí_vil,Roaming
+GC - Comunicaciones,MPLS Tiendas,Intermitencia
+GC - Telefoní_a,Fija,Cableado
+GC - Telefoní_a,Fija,Aparato
+GC - Telefoní_a,Fija,Lí_nea directa
+GC - Telefoní_a,Fija,Extensiones
+GC - Telefoní_a,Fija,Conmutador
+GC - Comunicaciones,Intranet,Hackeo
+GC - Comunicaciones,Intranet,Configuracií_n
+Hardware,Servidores,Cartuchos
+Hardware,Perifericos,Teclado
+Hardware,Servidores,Array
+Hardware,Perifericos,Diadema
+Hardware,Perifericos,Microfono
+Hardware,Perifericos,HDD Externo
+Hardware,Perifericos,Mouse
+Hardware,Perifericos,Bocinas
+Hardware,Servidores,Enclosure
+GC - Comunicaciones,Intranet,No abre píçgina
+GC - Comunicaciones,Intranet,Modificacií_n
+GC - Comunicaciones,VPN Tiendas,Router
+GC - Comunicaciones,VPN Tiendas,Modem
+GC - Comunicaciones,VPN Tiendas,Intermitencia
+GC - Comunicaciones,VPN Tiendas,Lento
+GC - Comunicaciones,VPN Tiendas,Sin conexií_n
+GC - Comunicaciones,MPLS Tiendas,Router
+GC - Comunicaciones,MPLS Tiendas,Lento
+GC - Comunicaciones,MPLS Tiendas,Sin conexií_n
+GC - Comunicaciones,Internet,Sin conexií_n
+GC - Comunicaciones,Internet,Intermitencia
+GC - Comunicaciones,Internet,Lento
+GC - Punto de Venta,Traspasos,No se carga pieza en SAP
+GC - Punto de Venta,Traspasos,No existe pieza
+GC - Punto de Venta,Traspasos,No existe pedido en pieza
+GC - Punto de Venta,Traspasos,La pieza es para otra sucursal
+GC - Punto de Venta,Traspasos,Error de marca y modelo
+Software,Agentes,Clonacií_n
+Software,Sistemas Operativos,Windows 10
+Software,Sistemas Operativos,Windows 7
+Software,Sistemas Operativos,Windows XP
+Software,Sistemas Operativos,Windows 8
+Software,Navegadores,Firefox
+GC - Hardware,Monitor,Nuevo
+GC - Hardware,Monitor,No enciende
+GC - Hardware,Monitor,Instalacií_n
+GC - Hardware,Monitor,Falla de colores
+GC - Hardware,Monitor,Configuracií_n
+GC - Punto de Venta,Traspasos,No permite traspasar
+GC - Hardware,Laptop,No enciende
+GC - Hardware,Laptop,Instalacií_n
+GC - Hardware,Laptop,Formateo
+GC - Hardware,Impresoras,Asesoria
+GC - Hardware,Impresoras,Instalacií_n
+GC - Hardware,Impresoras,Configuracií_n
+GC - Hardware,CPU,No enciende
+GC - Hardware,CPU,Instalacií_n
+GC - Hardware,CPU,Formateo
+GC - Software,SAP,Planchado
+GC - Software,SAP,Transportes
+GC - Software,SAP,Roles
+GC - Software,SAP,Configuracií_n
+GC - Software,SAP,Instalacií_n
+GC - Software,VPN,Falla
+GC - Software,VPN,Instalacií_n
+GC - Software,VPN,Configuracií_n
+GC - Software,Microsoft Office,Outlook
+GC - Software,Microsoft Office,Power Point
+GC - Software,Microsoft Office,Excel
+GC - Software,Microsoft Office,Word
+GC - Software,Internet Explorer,Actualizacií_n
+GC - Software,Internet Explorer,Desinstalacií_n
+GC - Software,Internet Explorer,Falla
+GC - Software,Internet Explorer,Configuracií_n
+GC - Software,Internet Explorer,Instalacií_n
+Software,Navegadores,Safari
+Software,Navegadores,IE
+Software,Documentos,Acrobat
+Software,Clientes de Correo,Outlook
+Software,Clientes de Correo,Domino NT
+Software,Agentes,Respaldo
+Software,Documentos,Excel
+Software,Documentos,Powerpoint
+Software,Navegadores,Chrome
+Software,Documentos,Office
+Software,Documentos,Word
+Hardware,Perifericos,Monitor
+GC - Software,Google Chrome,Actualizacií_n
+GC - Software,Google Chrome,Desinstalacií_n
+GC - Software,Google Chrome,Falla
+GC - Software,Google Chrome,Configuracií_n
+GC - Punto de Venta,Corte de caja,Nota de venta sin datos
+GC - Punto de Venta,Corte de caja,Cargos pendientes
+GC - Punto de Venta,Corte de caja,No imprime corte
+GC - Punto de Venta,Corte de caja,No se enví_a corte
+GC - Punto de Venta,Corte de caja,No genera corte
+GC - Punto de Venta,Corte de caja,Error en formas de pago
+GC - Punto de Venta,Oro a cuenta,No abre programa
+GC - Punto de Venta,Oro a cuenta,No imprime recibo
+GC - Punto de Venta,Pedidos,No imprime recibo
+GC - Punto de Venta,Pedidos,Error en marca y modelo
+GC - Punto de Venta,Pedidos,No genera pedido
+GC - Punto de Venta,Venta,No imprime
+GC - Punto de Venta,Venta,Archivo daí±ado
+GC - Punto de Venta,Venta,Error en indice
+GC - Punto de Venta,Venta,No abre SUIC2
+Hardware,Servidores,Back Up / Restore
+Teams & Teammates,Teammates,New Teammates
+Software,Sistemas Operativos,Windows 8.1
+Software,Sistemas Operativos,Linux
+Teams & Teammates,Work Related Activities,Activities
+Teams & Teammates,Create New Team / Subteam,Away Activities
+Teams & Teammates,Create New Team / Subteam,Befective Activated
+Teams & Teammates,Free Days,Create Free Day
+Teams & Teammates,Free Days,Delete Free Day
+Teams & Teammates,Inventory,Installed Agents
+Teams & Teammates,Logs,Review
+Teams & Teammates,Teams,Away Activities
+Teams & Teammates,Teams,Befective Activated
+Teams & Teammates,Teams,Consider Away After
+Teams & Teammates,Teams,Delete Team/Subteam
+Teams & Teammates,Teams,Mood Feature
+Teams & Teammates,Teams,My Stats Feature
+Teams & Teammates,Teams,Time Goal
+Teams & Teammates,Teammates,Assign a Team
+Teams & Teammates,Teammates,Change Team
+Teams & Teammates,Teammates,Ignore Teammate
+Teams & Teammates,Teammates,Inactivate Teammate
+Teams & Teammates,Work Related Activities,Categories
+Self Service,Learn Videos,Downloads
+itManager  - PPO - Interno,Usuarios,Alta
+Self Service,Learn Videos,Statistics
+Self Service,Learn Videos,Teams & Teammates
+Self Service,Learn Videos,Your Company
+Suggestions & Complains,Complains,Human Service
+Suggestions & Complains,Complains,Payment
+Suggestions & Complains,Complains,Platform
+Suggestions & Complains,Suggestions,Improvements
+Suggestions & Complains,Suggestions,New Features
+Accesos,Success Factor,Reset de Password
+Accesos,MP9,Cuenta
+Software,Agentes,PeopleNet
+Software,Agentes,Trusted Link
+GC - Software,Remoto,Otro
+Software,Agentes,Discoverer
+Software,Documentos,Visio
+Accesos,Oracle,Password
+Hardware,Servidores,Storage EBS
+Aplicaciones,Discoverer,Modificacion Reporte
+Aplicaciones,Discoverer,Nuevo Reporte
+Software,Documentos,Adobe
+Software,Standard,Discoverer
+Software,Standard,MINIT AB
+Software,Standard,MS OFFICE
+Software,Standard,MS SQL SERVER
+Software,Standard,Java
+Essential,Infraestructura,CDMON
+Essential,Servicio,Mantenimiento
+Essential,Sistema Operativo,Actualizacií_n
+ANGLO,Controladora,Usuarios
+ANGLO,Controladora,Configuracií_n
+ANGLO,Controladora,DNS
+ANGLO,Controladora,Falla
+ANGLO,Access Point,SSID
+ANGLO,Access Point,Cobertura
+ANGLO,Access Point,Acceso
+ANGLO,Access Point,SSID
+ANGLO,Cable de Red,Falla
+ANGLO,Cable de Red,Cambio
+itManager  - PPO - Interno,Tipos de Equipo,Falla
+itManager  - PPO - Interno,Tipos de Equipo,Alta
+itManager  - PPO - Interno,Tipos de Equipo,Baja
+Eutectic,JDE,Cuentas por Cobrar
+Eutectic,JDE,Cuentas por Pagar
+Eutectic,JDE,Contabilidad General
+Eutectic,JDE,Inventario
+Eutectic,JDE,Ventas
+Eutectic,JDE,Compras
+itManager  - PPO - Interno,Tipo de Cliente,Alta
+itManager  - PPO - Interno,Tipo de Cliente,Falla
+itManager  - PPO - Interno,Tipo de Cliente,Baja
+itManager  - PPO - Interno,Configuracií_n de Organizacií_n,Uso Horario
+itManager  - PPO - Interno,Configuracií_n de Organizacií_n,Moneda
+itManager  - PPO - Interno,Configuracií_n de Organizacií_n,Idioma
+itManager  - PPO - Interno,Configuracií_n de Organizacií_n,Notificacií_n de organizacií_n
+itManager  - PPO - Interno,Configuracií_n de Organizacií_n,Usar copyright
+itManager  - PPO - Interno,Usuarios,Baja
+itManager  - PPO - Interno,Configuracií_n de Organizacií_n,Usar logo cliente
+itManager  - PPO - Interno,Configuracií_n de Organizacií_n,Usar logo itManager
+itManager  - PPO - Interno,Configuracií_n de Organizacií_n,Mensaje copyright
+itManager  - PPO - Interno,Configuracií_n de Organizacií_n,Organizacií_n eMail
+itManager  - PPO - Interno,Configuracií_n de Organizacií_n,Logo - Busqueda de archivo
+itManager  - PPO - Interno,Tipos de Contrato,Alta
+itManager  - PPO - Interno,Tipos de Contrato,Baja
+itManager  - PPO - Interno,Tipos de Contrato,Falla
+itManager  - PPO - Interno,Variables,Alta
+itManager  - PPO - Interno,Variables,Baja
+itManager  - PPO - Interno,Variables,Falla
+itManager  - PPO - Interno,Usuarios,Cambio
+itManager  - PPO - Interno,Servicios í_nicos,Alta
+itManager  - PPO - Interno,Servicios í_nicos,Baja
+itManager  - PPO - Interno,Servicios í_nicos,Falla
+itManager  - PPO - Interno,Procedimientos,Alta
+itManager  - PPO - Interno,Procedimientos,Baja
+itManager  - PPO - Interno,Procedimientos,eMail
+itManager  - PPO - Interno,Procedimientos,Modificar Atributo
+itManager  - PPO - Interno,Prí©stamo de Equipo,Alta
+itManager  - PPO - Interno,Prí©stamo de Equipo,Baja
+itManager  - PPO - Interno,Prí©stamo de Equipo,Falla
+itManager  - PPO - Interno,Polí_ticas de Organizacií_n,Alta
+itManager  - PPO - Interno,Polí_ticas de Organizacií_n,Baja
+itManager  - PPO - Interno,Polí_ticas de Organizacií_n,Cambio
+itManager  - PPO - Interno,Polí_ticas de Organizacií_n,Falla
+itManager  - PPO - Interno,Plantillas,Cambios
+itManager  - PPO - Interno,Plantillas,Falla
+itManager  - PPO - Interno,Plantillas,Alta
+itManager  - PPO - Interno,Plantillas,Baja
+itManager  - PPO - Interno,Mesas,Polí_ticas
+itManager  - PPO - Interno,Mesas,Catíçlogos
+itManager  - PPO - Interno,Mesas,Revisií_n
+itManager  - PPO - Interno,Mesas,Etapa
+itManager  - PPO - Interno,Mesas,Prioridades
+itManager  - PPO - Interno,Mesas,Estatus
+itManager  - PPO - Interno,Mesas,Relaciones
+itManager  - PPO - Interno,Mesas,Campos obligatorios
+itManager  - PPO - Interno,Checklists,Nuevo Checklist
+itManager  - PPO - Interno,Checklists,Clientes
+itManager  - PPO - Interno,Checklists,Editar Campos
+itManager  - PPO - Interno,Checklists,Tipo
+itManager  - PPO - Interno,Checklists,Obligatorio
+itManager  - PPO - Interno,Grupos de Permisos,Permisos - Administrativo
+Hardware,Desktop,RAM
+Hardware,Desktop,Mother Board
+Hardware,Desktop,CPU
+itManager  - PPO - Interno,Grupos de Permisos,Permisos - Gerencia
+itManager  - PPO - Interno,Grupos de Permisos,Permisos - Informe
+itManager  - PPO - Interno,Grupos de Permisos,Permisos - Tí©cnico
+itManager  - PPO - Interno,Grupos de Permisos,Permisos - Cliente
+itManager  - PPO - Interno,Grupos de Permisos,Alta
+itManager  - PPO - Interno,Grupos de Permisos,Baja
+itManager  - PPO - Interno,Grupos de Permisos,Grupo de Agentes
+itManager  - PPO - Interno,Grupos de Permisos,Usuarios
+itManager  - PPO - Interno,Grupo de Agentes,Alta
+itManager  - PPO - Interno,Grupo de Agentes,Baja
+itManager  - PPO - Interno,Grupo de Agentes,Informacií_n General
+itManager  - PPO - Interno,Grupo de Agentes,Miembros
+itManager  - PPO - Interno,Grupo de Agentes,Expediente
+itManager  - PPO - Interno,Feriados,Cambio
+itManager  - PPO - Interno,Feriados,Alta
+itManager  - PPO - Interno,Feriados,Baja
+itManager  - PPO - Interno,Distribucií_n,Host
+itManager  - PPO - Interno,Distribucií_n,Host Port
+itManager  - PPO - Interno,Distribucií_n,SSL
+itManager  - PPO - Interno,Distribucií_n,Repetidor VNC
+itManager  - PPO - Interno,Configuracií_n de Acceso Remoto,Seleccione Cliente
+itManager  - PPO - Interno,Configuracií_n de Acceso Remoto,Seleccione una accií_n
+itManager  - PPO - Interno,Configuracií_n de Acceso Remoto,Aplicar a los equipos
+itManager  - PPO - Interno,Catíçlogo de Servicio,Alta
+itManager  - PPO - Interno,Catíçlogo de Servicio,Baja
+itManager  - PPO - Interno,Catíçlogo de Servicio,Cambios
+itManager  - PPO - Interno,Catíçlogo de Servicio,Asignacií_n
+itManager  - PPO - Interno,Catíçlogo de Servicio,Solucií_n
+itManager  - PPO - Interno,Catíçlogo de Servicio,Asistencia
+itManager  - PPO - Interno,Catíçlogo de Servicio,Esfuerzo
+itManager  - PPO - Interno,Actividades recurrentes,Alta
+itManager  - PPO - Interno,Actividades recurrentes,Baja
+itManager  - PPO - Interno,Actividades recurrentes,Cambios
+itManager  - PPO - Interno,Actividades recurrentes,Configuracií_n
+itManager  - PPO - Interno,General,Idioma
+itManager  - PPO - Interno,General,Uso Horario
+itManager  - PPO - Interno,Clientes,Alta
+itManager  - PPO - Interno,Clientes,Baja
+itManager  - PPO - Interno,Clientes,Configuracií_n
+itManager  - PPO - Interno,Clientes,Usuarios
+itManager  - PPO - Interno,Clientes,Grupos de Equipos
+itManager  - PPO - Interno,Clientes,Relaciones
+itManager  - PPO - Interno,General,Falla
+itManager  - PPO - Interno,General,Distribucií_n de agentes
+itManager  - PPO - Interno,Contratos,Alta
+itManager  - PPO - Interno,Contratos,Baja
+itManager  - PPO - Interno,Contratos,Cambios
+itManager  - PPO - Interno,Informes,Alta
+itManager  - PPO - Interno,Informes,Baja
+itManager  - PPO - Interno,Informes,Cambios
+Hardware,Laptop,Adaptador de energia
+Hardware,Laptop,Bateria
+Hardware,Laptop,Touch Pad
+Hardware,Laptop,RAM
+Hardware,Laptop,Unidad í_ptica
+Hardware,Laptop,Pantalla
+Hardware,Laptop,Teclado Integrado
+Hardware,Laptop,Puerto HDMI
+Hardware,Laptop,Puerto VGA
+Hardware,Laptop,Puertos USB
+Software,Aplicaciones Servidor,Consola Antivirus
+Hardware,Laptop,Fuente de Poder Integrada
+Hardware,Laptop,Mother Board
+Software,Aplicaciones Servidor,DNS
+Software,Documentos,Sharepoint
+Software,Documentos,Project
+Software,Aplicaciones Servidor,SQL
+Hardware,Desktop,Gabinete
+Administration,Accounts,Profile
+Administration,Company,Information
+Administration,Company,Goals & Rules
+Administration,Administration,Change Rol
+Administration,Administration,Delete Admin/Manager
+Administration,Administration,Invite Admin/Manager
+Hardware,Desktop,HDD
+ControlCambio,Oracle Apps,instalacií_n
+ControlCambio,SOLinux,File Systems
+ControlCambio,SOLinux,Cron Jobs
+ControlCambio,Oracle Apps,Actualizaciones
+ControlCambio,SOLinux,Configuracií_n
+ControlCambio,SOLinux,Actualizaciones
+ControlCambio,Oracle Apps,Reinicio
+ControlCambio,SOLinux,Reinicio
+Accesos,MP9,Base de datos
+Hardware,Desktop,Unidad íñptica
+Software,Agentes,Meta4 EMIND
+Software,Standard,ADI
+Software,Standard,Adobe Flash
+Software,Standard,Cisco VPN
+Software,Ingenierí_a,3D- Data Express
+Software,Ingenierí_a,Arena-Flow
+Software,Ingenierí_a,AutoCad
+Software,Ingenierí_a,Camino Studio
+Software,Ingenierí_a,CATIA
+Software,Ingenierí_a,FUTURE
+Software,Ingenierí_a,MP9
+Software,Ingenierí_a,PRO-E
+Software,Ingenierí_a,QGAGES
+Software,Ingenierí_a,Solid Work
+Software,Ingenierí_a,Team Mate
+ControlCambio,SOLinux,Respaldos
+Aplicaciones,Portal de Costos,Portal de Costos
+ControlCambio,SOWindows,Actualizaciones
+ControlCambio,Base de Datos,Creacií_n de Objetos
+ControlCambio,SOWindows,Reinicio de Procesos
+ControlCambio,SOWindows,Reinstalacií_n
+ControlCambio,SOWindows,Tareas Programadas
+ControlCambio,SOLinux,Restauraciones
+ControlCambio,SOLinux,Usuarios
+ControlCambio,SOWindows,Usuarios
+ControlCambio,Comunicaciones,Configuracií_n
+ControlCambio,Comunicaciones,Gabinete
+ControlCambio,Comunicaciones,Instalacií_n
+ControlCambio,Comunicaciones,Rack
+ControlCambio,Comunicaciones,ParchCore
+ControlCambio,Oracle Apps,Configuracií_n
+ControlCambio,Oracle Apps,Admin Cuentas
+ControlCambio,Oracle Apps,Clonado
+ControlCambio,Oracle Apps,FailOver
+ControlCambio,Base de Datos,FailOver
+ControlCambio,Base de Datos,Clonado
+ControlCambio,Base de Datos,Mantenimiento Preventivo
+ControlCambio,Base de Datos,Mantenimiento Correctivo
+ControlCambio,Base de Datos,Configuracií_n
+ControlCambio,Base de Datos,Reinicio
+ControlCambio,Base de Datos,Actualizaciones
+ControlCambio,Base de Datos,Usuarios
+Accesos,Lync,Cuenta
+Comunicaciones,Red WAN,Soporte
+Comunicaciones,Red LAN,Cableado
+Accesos,FolderCompartido,Permisos
+Comunicaciones,Monitoreo,Switch
+Comunicaciones,Infraestructura,Enlace MPLS
+Comunicaciones,Red WiFi,Soporte
+Comunicaciones,Red LAN,Fibra
+Comunicaciones,Red WAN,Cableado
+Accesos,FolderCompartido,Carpeta
+Comunicaciones,Infraestructura,Enlace Respaldo
+Comunicaciones,Monitoreo,Servidor
+Comunicaciones,Monitoreo,Impresora
+Comunicaciones,Red WiFi,Cableado
+Comunicaciones,Voz,Clave Llamadas
+Comunicaciones,Voz,Marcacií_n Corta
+Hardware,Desktop,Tarjeta de Video
+Hardware,Desktop,Tarjeta de Audio
+Hardware,Desktop,Tarjeta de Red
+Software,Ingenierí_a,PC-DEMMIS
+Software,Base de Datos,Rendimiento
+Hardware,Laptop,HDD Interno
+Software,Agentes,VPN Cisco AnyConnect
+Software,Base de Datos,Clonado
+Software,Aplicaciones Servidor,Dominio
+Software,Sistemas Operativos,Almacenamiento Red
+Software,Sistemas Operativos,Almacenamiento Local
+Software,Sistemas Operativos,Personalizaciones
+Software,Sistemas Operativos,Actualizaciones
+Software,Sistemas Operativos,Datos
+Software,Sistemas Operativos,Paríçmetros de Kernel
+Software,Ingenierí_a,TrustedLink
+Software,Ingenierí_a,MAGMA
+Software,Ingenierí_a,Fluke
+Software,Ingenierí_a,NX
+Software,Sistemas Operativos,Particiones
+Software,Sistemas Operativos,Procesos
+Software,Sistemas Operativos,Proxy
+Software,Sistemas Operativos,Puertos
+Software,Sistemas Operativos,Rendimiento
+Software,Standard,DataLoad
+Comunicaciones,Telefonia Movil,Configuracion
+Software,Standard,Imíçgenes
+Software,Standard,Cliente Oracle
+Software,Standard,Consola Virtual XP
+Software,Sistemas Operativos,Scripts
+Software,Sistemas Operativos,Tareas Programadas
+Software,Sistemas Operativos,Usuarios
+Hardware,Servidores,Perifericos
+Hardware,Servidores,Procesadores
+Software,Base de Datos,Actualizaciones
+Software,Base de Datos,Procesos
+Software,Base de Datos,DRP
+Software,Base de Datos,Datos
+Software,Base de Datos,Almacenamiento
+Software,Base de Datos,Parametros
+Software,Base de Datos,Objetos
+Software,Base de Datos,Usuarios
+Comunicaciones,Telefonia Movil,Reparacion
+Software,Aplicacií_n Oracle,Personalizaciones
+Software,Aplicacií_n Oracle,Desarrollos
+Software,Aplicacií_n Oracle,Menus
+Software,Aplicacií_n Oracle,Concurrentes
+Software,Aplicacií_n Oracle,Procesos
+Software,Aplicacií_n Oracle,Scripts
+Software,Aplicacií_n Oracle,Monitoreo
+Software,Base de Datos,Scripts
+Software,Base de Datos,Monitoreo
+Comunicaciones,Telefonia Movil,Garantia
+Perfil,Usuario,Nombre
+Perfil,Usuario,Foto
+Perfil,Usuario,Idioma
+Software,Aplicacií_n Oracle,Rendimiento
+Software,Aplicacií_n Oracle,Clonados
+Software,Aplicacií_n Oracle,Actualizaciones
+Software,Aplicacií_n Oracle,Responsabilidades
+Software,Aplicacií_n Oracle,Usuarios
+Perfil,Usuario,Zona Horaria
+Perfil,Usuario,Contraseí±a
+Empresa,Informacií_n,Nombre
+Empresa,Informacií_n,Logo
+Empresa,Informacií_n,Sitio Web
+Empresa,Informacií_n,Telí©fono
+Empresa,Metas,Tiempo
+Empresa,Metas,Trabajo
+Empresa,Reglas de actividades en computadora,Periodo de aníçlisis
+Empresa,Reglas de actividades en computadora,Estadí_sticas personales
+Empresa,Reglas de actividades en computadora,Pop-up de estado íçnimo
+Empresa,Reglas de actividades sin computadora,Lí_mite de tiempo fuera
+Empresa,Reglas de actividades sin computadora,Pop-up de actividades sin computadora
+Empresa,Reglas de actividades sin computadora,Actividades sin computadora
+Administradores y Gerentes,Administrador,Invitacií_n
+Administradores y Gerentes,Administrador,Eliminacií_n
+Administradores y Gerentes,Administrador,Rol de Administrador a Gerente
+Administradores y Gerentes,Gerente,Invitacií_n
+Administradores y Gerentes,Gerente,Eliminacií_n
+Administradores y Gerentes,Gerente,Rol de Gerente a Administrador
+Administradores y Gerentes,Gerente,Equipos para gerenciar
+Equipos y Colegas,Colegas,Creacií_n
+Equipos y Colegas,Colegas,Asignacií_n de primer equipo
+Equipos y Colegas,Colegas,Cambio de equipo
+Equipos y Colegas,Colegas,Eliminacií_n
+Equipos y Colegas,Colegas,En Espera
+Equipos y Colegas,Colegas,Ignorados
+Equipos y Colegas,Colegas,Icono de Befective
+Equipos y Colegas,Colegas,Pop-up de estado de animo
+Equipos y Colegas,Colegas,Pop-up de actividades sin computadora
+Equipos y Colegas,Equipos,Diferencias entre equipo y sub-equipo
+Equipos y Colegas,Equipos,Creacií_n
+Equipos y Colegas,Equipos,Meta de tiempo
+Equipos y Colegas,Equipos,Reglas de actividades en computadora
+Equipos y Colegas,Equipos,Reglas de actividades sin computadora
+Equipos y Colegas,Equipos,Copia de metas y reglas
+Equipos y Colegas,Equipos,Actividades relacionadas al trabajo
+Equipos y Colegas,Equipos,Actualizacií_n de informacií_n
+Equipos y Colegas,Equipos,Cambio en la estructura organizacional
+Equipos y Colegas,Equipos,Eliminacií_n
+Equipos y Colegas,Actividades relacionadas al trabajo,Actividades sin computadora
+Equipos y Colegas,Actividades relacionadas al trabajo,Categorias en computadora
+Equipos y Colegas,Actividades relacionadas al trabajo,Actividades individuales en computadora
+Equipos y Colegas,Dí_as Libres,Organizacional
+Equipos y Colegas,Dí_as Libres,Equipo
+Equipos y Colegas,Dí_as Libres,Individual
+Equipos y Colegas,Inventario,Agentes Mac instalados
+Equipos y Colegas,Inventario,Agentes Windows instalados
+Equipos y Colegas,Logs,Accií_n realizada
+Equipos y Colegas,Logs,Elementos modificados
+Agente,Requerimientos Tí©cnicos,Sistema Operativo
+Agente,Requerimientos Tí©cnicos,Conectividad
+Agente,Requerimientos Tí©cnicos,Nombre de Usuario de Colega
+Agente,Windows,Comprobador de requisitos de Windows
+Agente,Windows,Agente regular
+Agente,Windows,Míçquina Virtual de Windows
+Agente,Mac,Agente regular
+Estadisticas,Histí_rico,General
+Estadisticas,Histí_rico,General por dí_a
+Estadisticas,Histí_rico,Colega por dí_a
+Estadisticas,Histí_rico,Colega por horas
+Estadisticas,Histí_rico,Colega por hora
+Estadisticas,Ejecutivo,Resumen
+Estadisticas,Ejecutivo,Meta de Tiempo
+Estadisticas,Ejecutivo,Meta de Trabajo
+Estadisticas,Ejecutivo,Estados de íçnimo
+Estadisticas,Ejecutivo,Equipos
+Estadisticas,Ejecutivo,Colegas
+Estadisticas,Ejecutivo,Actividades
+Estadisticas,Ejecutivo,Actividad Individual
+Estadisticas,Hoy,Resumen
+Estadisticas,Hoy,Detalles
+Estadisticas,Compartir Estadí_sticas,Email
+Estadisticas,Compartir Estadí_sticas,PDF
+Estadisticas,Compartir Estadí_sticas,Excel
+Estadisticas,Estadí_sticas Automíçticas,Creacií_n
+Estadisticas,Estadí_sticas Automíçticas,Actualizacií_n
+Estadisticas,Estadí_sticas Automíçticas,Activacií_n/Desactivacií_n
+Estadisticas,Estadí_sticas Automíçticas,Eliminacií_n
+Sugerencias,Funcionalidades,Mejora a una existente
+Sugerencias,Funcionalidades,idea nueva
+Sugerencias,Servicio,Soporte
+Sugerencias,Servicio,Ventas
+Sugerencias,Servicio,Otro
+Accesos,ColaboraTupy,ColaboraTupy LOLO
+LOLO,LOLO2,-------
+LOLO,LOLO1,LALLA
+LOLO,LOLO2,-------
+LOLO,LOLO2,-------
+LOLO,LOLO2,LALA1

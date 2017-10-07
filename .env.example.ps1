@@ -10,7 +10,7 @@ $Env:SBUCKET="xxx...xxx.appspot.com"
 
 [Environment]::SetEnvironmentVariable("API_KEY", $Env:API_KEY, "User")
 [Environment]::SetEnvironmentVariable("AUTHDOMAIN", $Env:AUTHDOMAIN, "User")
-[Environment]::SetEnvironmentVariable("TWILIO_TWIML_APP_SID", $Env:TWILIO_TWIML_APP_SID, "User")
+[Environment]::SetEnvironmentVariable("DBUTL", $Env:DBUTL, "User")
 [Environment]::SetEnvironmentVariable("SBUCKET", $Env:SBUCKET, "User")
 
 #>
