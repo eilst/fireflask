@@ -68,6 +68,12 @@ Next, we need to install our depenedencies:
 pip install -r requirements.txt
 ```
 
+Run the load_catalog using the `python` command.
+
+```bash
+python load_catalog.py
+```
+
 Run the application using the `python` command.
 
 ```bash
