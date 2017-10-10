@@ -3,9 +3,10 @@ import os
 import json
 import pyrebase
 from flask import Flask, make_response, request, abort
+from flask_cors import CORS
 
 app = Flask(__name__)
-
+CORS(app)
 config = {
     "apiKey": os.environ['API_KEY'],
     "authDomain": os.environ['AUTHDOMAIN'],
