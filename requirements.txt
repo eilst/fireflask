@@ -19,3 +19,6 @@ Pyrebase==3.0.27
 rsa==3.4.2
 six==1.11.0
 Werkzeug==0.12.2
+wsgi-request-logger==0.4.6
+zappa==0.44.3
+zope.interface==4.4.3
